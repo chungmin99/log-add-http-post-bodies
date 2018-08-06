@@ -1,0 +1,17 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	http
+#open	2018-08-06-16-46-03
+#fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	trans_depth	method	host	uri	referrer	version	user_agent	request_body_len	response_body_len	status_code	status_msg	info_code	info_msg	tags	username	password	proxied	orig_fuids	orig_filenames	orig_mime_types	resp_fuids	resp_filenames	resp_mime_types	post_body
+#types	time	string	addr	port	addr	port	count	string	string	string	string	string	string	count	count	count	string	count	string	set[enum]	string	string	set[string]	vector[string]	vector[string]	vector[string]	vector[string]	vector[string]	vector[string]	string
+1533599122.340197	CxJdLt1CHm6P6XtPOd	172.18.0.3	59154	172.18.0.2	80	1	POST	server	/	-	1.0	curl/7.35.0	66	0	200	OK	-	-	(empty)	-	-	-	FhUAEJ1Fe0ls7k57F	-	text/html	-	-	-	<html><head>Quick brown fox jumps over the lazy dog.</head></html>
+1533599122.373363	CKGUzL308V4NxC5Wdb	172.18.0.3	59156	172.18.0.2	80	1	POST	server	/	-	1.0	curl/7.35.0	105	0	200	OK	-	-	(empty)	-	-	-	FH8gEW3AAwyNu2bsfd	-	text/html	-	-	-	<html><head>My Mum tries to be cool by saying that she likes all the same things that I do.</head></html>
+1533599122.411675	CL4ZipkjOlMy3cTOl	172.18.0.3	59162	172.18.0.2	80	1	POST	server	/	-	1.0	curl/7.35.0	132	0	200	OK	-	-	(empty)	-	-	-	FsC3ul1HZjcVdS6KE7	-	text/html	-	-	-	<html><head>If the Easter Bunny and the Tooth Fairy had babies would they take your teeth and leave chocolate for you?</head></html>
+1533599122.445930	C6iPvh4fOYmueyymzh	172.18.0.3	59164	172.18.0.2	80	1	POST	server	/	-	1.0	curl/7.35.0	119	0	200	OK	-	-	(empty)	-	-	-	FKLeIj4GymXzwGuQwa	-	text/html	-	-	-	<html><head>A purple pig and a green donkey flew a kite in the middle of the night and ended up sunburnt.</head></html>
+1533599122.487867	COZ31q4Ljxolayp4Ng	172.18.0.3	59166	172.18.0.2	80	1	POST	server	/	-	1.0	curl/7.35.0	164	0	200	OK	-	-	(empty)	-	-	-	FUeOlJ3wkpIY8SZWF6	-	text/html	-	-	-	<html><head>What was the person thinking when they discovered cow's milk was fine for human consumption... and why did they do it in the first place!?</head></html>
+1533599122.515026	CeLnFS2GHeBPQPEYTa	172.18.0.3	59168	172.18.0.2	80	1	POST	server	/	-	1.0	curl/7.35.0	127	0	200	OK	-	-	(empty)	-	-	-	FnfVuN1k6bDn6flgSi	-	text/html	-	-	-	<html><head>Last Friday in three week's time I saw a spotted striped blue worm shake hands with a legless lizard.</head></html>
+1533599122.542015	Cs09Y244Kwpj4LhMta	172.18.0.3	59170	172.18.0.2	80	1	POST	server	/	-	1.0	curl/7.35.0	103	0	200	OK	-	-	(empty)	-	-	-	FiHRZY2fsHECo3nQcc	-	text/html	-	-	-	<html><head>Wednesday is hump day, but has anyone asked the camel if he's happy about it?</head></html>
+1533599122.571442	CuRepf3pWPejHAzKNh	172.18.0.3	59172	172.18.0.2	80	1	POST	server	/	-	1.0	curl/7.35.0	550	0	200	OK	-	-	(empty)	-	-	-	FZXBgV3O4IoJ2MgWj4	-	text/html	-	-	-	<html><head>If Purple People Eaters are real, where do they find purple people to eat? If Purple People Eaters are real, where do they find purple people to eat? If Purple People Eaters are real, wher...
+#close	2018-08-06-16-46-03
